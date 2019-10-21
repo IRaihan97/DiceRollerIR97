@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DiceRoller.iml" filepath="$PROJECT_DIR$/DiceRoller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiceRollerIR97.iml" filepath="$PROJECT_DIR$/DiceRollerIR97.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
